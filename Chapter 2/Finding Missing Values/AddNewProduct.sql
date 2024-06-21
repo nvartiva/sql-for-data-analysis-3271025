@@ -8,7 +8,7 @@ INSERT INTO Product (
     Status
   )
 VALUES (
-    19,
+    20,
     'MWORG64',
     " ",
     64,
