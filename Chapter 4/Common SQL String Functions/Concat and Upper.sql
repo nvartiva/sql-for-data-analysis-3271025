@@ -1,7 +1,7 @@
 SELECT UPPER(
     CONCAT(
       Address,
-      ' ',
+      ', ',
       City,
       ', ',
       State,
